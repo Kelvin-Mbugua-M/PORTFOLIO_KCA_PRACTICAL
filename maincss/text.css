@@ -2,7 +2,9 @@ h1,h2{
     height:30px;
     font-size: larger;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color:chartreuse;
+    text-shadow:0 0 3px #FFE205, 0 0 7px #FFE205, 0 0 20px #EDD205;color:#FFE205;
+
+ 
 }
 p,li{
     height:20px;
@@ -10,5 +12,5 @@ p,li{
     color: lawngreen;
     margin: auto;
     padding: auto;
-    
+
 }
